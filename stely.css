@@ -4,8 +4,8 @@
 }
 
 div {
-    height          : 40px;
-    
+    height          : 80px;
+    max-height          : 30px;
     background-color: blue;
 }
 
@@ -16,9 +16,9 @@ h1 {
     padding         : 1px;
 }
 
-table,td
- {
+table,
+td {
 
-padding: 10px 10px 10px 10px;
-    border: 4px outset black;
+    padding: 10px 10px 10px 10px;
+    border : 4px outset black;
 }
