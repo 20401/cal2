@@ -1,4 +1,13 @@
-table, td
-{
-    border: 1px solid black;
-}
+
+*{margin: 0%;
+    padding:0%;}
+    
+    h1{
+    text-align: center;
+    background-color: sandybrown;
+      border: 15px outset rgb(157, 153, 160);
+      padding:1px;}
+
+      table, td 
+      {
+        border: 2px outset black}
