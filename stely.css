@@ -1,13 +1,24 @@
+* {
+    margin : 0%;
+    padding: 0%;
+}
 
-*{margin: 0%;
-    padding:0%;}
+div {
+    height          : 40px;
     
-    h1{
-    text-align: center;
-    background-color: sandybrown;
-      border: 15px outset rgb(157, 153, 160);
-      padding:1px;}
+    background-color: blue;
+}
 
-      table, td 
-      {
-        border: 2px outset black}
+h1 {
+    text-align      : center;
+    background-color: sandybrown;
+    border          : 15px outset rgb(157, 153, 160);
+    padding         : 1px;
+}
+
+table,td
+ {
+
+padding: 10px 10px 10px 10px;
+    border: 4px outset black;
+}
