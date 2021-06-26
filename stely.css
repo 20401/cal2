@@ -1,10 +1,10 @@
 * {
     margin : 0%;
     padding: 0%;
-
+background-color: rgba(55, 223, 181, 0.377);
 }
 
- table{
+table {
     position: absolute;
     right   : 30%;
     left    : 30%;
@@ -14,8 +14,7 @@
 
     height          : 250px;
     width           : 180px;
-    background-color: rgba(0, 0, 255, 0.692);
-    color           : white;
+    background-color: rgba(4, 4, 245, 0.651);
 
 }
 
@@ -31,15 +30,18 @@ h1 {
     padding         : 1px;
 }
 
-table,
+
+button {
+    width           : 80px;
+    height          : 50px;
+    padding         : 1px 1px 1px 1px;
+    background-color: #0fe461c2;
+    color           : white;
+
+}
+
 td {
 
     padding: 5px 5px 5px 5px;
     border : 4px outset black;
-}
-button{
-    width: 80px;
-    height: 50px;
-    padding: 1px 1px 1px 1px;
-    background-color: #8be40f;
 }
