@@ -1,20 +1,17 @@
 * {
     margin : 0%;
     padding: 0%;
-    
+
 }
 
-div {
-<<<<<<< HEAD
-     
-    height          : 250px;
-    width          : 180px;
-    background-color: rgba(0, 0, 255, 0.692);
-    color : white;
-   
-=======
 
-    height          : 250px;
+div {
+    <<<<<<< HEAD height: 250px;
+    width              : 180px;
+    background-color   : rgba(0, 0, 255, 0.692);
+    color              : white;
+
+    =======height   : 250px;
     width           : 180px;
     background-color: blue;
     color           : white;
@@ -22,30 +19,33 @@ div {
     position        : relative;
     left            : 20%;
     right           : 20%;
->>>>>>> 0f438c7b9b14104d3ab3a24fcb6f5aa93f864ad7
+    >>>>>>>0f438c7b9b14104d3ab3a24fcb6f5aa93f864ad7
 }
+
 p {
-    color:rgb(22, 18, 1);
-   
+    color: rgb(22, 18, 1);
+
 }
 
 h1 {
     text-align      : center;
-    background-color: rgb(184, 46, 22);
-    border          : 15px solid rgb(118, 32, 184);
+    background-color: rgba(243, 220, 18, 0.815);
+    color           : black;
     padding         : 1px;
+    height: 90px;
+    font-size: 40px;
 
 }
 
 table,
 td {
 
-    padding        : 10px 10px 10px 10px;
-    border         : 4px outset black;
-    color          : white;
-    
-    text-align     : center;
-   
+    padding: 10px 10px 10px 10px;
+    border : 4px outset black;
+    color  : white;
+
+    text-align: center;
+
 
 }
 
