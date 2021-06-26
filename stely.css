@@ -1,20 +1,27 @@
 * {
     margin : 0%;
     padding: 0%;
-    
+
 }
 
 div {
-     
+    position: absolute;
+    right: 30%;
+    left: 30%;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+  
     height          : 250px;
-    width          : 180px;
+    width           : 180px;
     background-color: rgba(0, 0, 255, 0.692);
-    color : white;
-   
+    color           : white;
+
 }
+
 p {
-    color:rgb(22, 18, 1);
-   
+    color: rgb(22, 18, 1);
+
 }
 
 h1 {
@@ -29,21 +36,4 @@ td {
 
     padding: 10px 10px 10px 10px;
     border : 4px outset black;
-
-}
-#td{
-    display: block;
-    color: #0000;
-    padding: 8px 16px;
-    text-decoration: none;
-  }
-  
-  li a.active {
-    background-color: #04AA6D;
-    color: white;
-  }
-  
-  li a:hover:not(.active) {
-    background-color: #555fff;
-    color: white;
 }
